@@ -21,11 +21,25 @@
     text-decoration-line: underline;
     cursor: pointer;
     color: #FBB900;
-
-
 }
 
 .containerProducts{
     display:flex;
     overflow-x:scroll;
+}
+
+.button{
+    padding:10px;
+    background-color:#E5E5E5;
+    border-radius:10px;
+    border:none;
+    color: var(--main-gray1);
+    font-weight:var(--bold);
+    margin-left:20px;
+    cursor:pointer;
+}
+
+.button:hover{
+    color:white;
+    background-color:var(--main-color)
 }

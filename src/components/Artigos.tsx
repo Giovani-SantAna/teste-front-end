@@ -10,6 +10,8 @@ const descriptionPlaceholder = "Lorem ipsum dolor sit amet, consectetur elit adi
 const urlPlaceholder = "#"
 
 export default function Artigos() {
+
+  //Nada a se comentar
   return (
     <section className={styles.container}>
       <h1 className="title">

@@ -6,6 +6,8 @@ import category3 from '../images/category 3.png'
 import category4 from '../images/category 4.png'
 
 export default function Categorias() {
+
+  //Nada a se comentar nessa parte
   return (
     <section className={styles.section}>
       <h1 className={styles.title}>Categorias</h1>

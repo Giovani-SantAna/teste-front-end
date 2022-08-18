@@ -1,0 +1,49 @@
+.modal{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:100vh;
+    background-color: rgba(0, 0, 0, .54);
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+}
+
+.container{
+    background-color:white;
+    width: 50vw;
+    display:flex;
+    border-radius:10px;
+    justify-content:space-between;
+    padding:30px;
+    color:#041E50;
+    font-weight: 400;
+}
+
+.name{
+    font-size:20px;
+}
+
+.price{
+    font-weight:var(--bold);
+    font-size:20px;
+}
+
+.description{
+    font-size:10px;
+}
+
+.detalhes{
+    font-size: 12px;
+}
+
+.close{
+    position:relative;
+    top:0px;
+    right:0px;
+    color:red;
+    font-size:32px;
+    cursor:pointer;
+}

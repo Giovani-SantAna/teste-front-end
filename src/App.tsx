@@ -10,6 +10,9 @@ import SeInscreva from './components/SeInscreva'
 import Footer from './components/Footer'
 import Parceiros from './components/Parceiros'
 
+
+//Para melhor organização do codigo o site
+//foi separado em diversos componentes
 function App() {
   return (
     <div className="App">

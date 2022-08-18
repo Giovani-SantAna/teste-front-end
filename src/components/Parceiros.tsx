@@ -7,34 +7,24 @@ import "slick-carousel/slick/slick-theme.css";
 
 export default function Parceiros() {
 
-
-  const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    arrows: true,
-    slidesToShow: 1,
-    slidesToScroll: 1
-  };
-
   return (
     <section className={styles.section}>
 
-        <div className={styles.card1}>
+      <div className={styles.card1}>
 
-          <div className={styles.container}>
-            <h2 className={styles.title}>Parceiros</h2>
-            <p className={styles.p}>
-              Lorem ipsum dolor sit<br />
-              amet, consectetur
-            </p>
-            <button className={styles.button}>
-              <a>
-                CONFIRA
-              </a>
-            </button>
-          </div>
+        <div className={styles.container}>
+          <h2 className={styles.title}>Parceiros</h2>
+          <p className={styles.p}>
+            Lorem ipsum dolor sit<br />
+            amet, consectetur
+          </p>
+          <button className={styles.button}>
+            <a>
+              CONFIRA
+            </a>
+          </button>
         </div>
+      </div>
       <div className={styles.card2}>
 
         <div className={styles.container}>
