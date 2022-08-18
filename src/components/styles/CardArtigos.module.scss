@@ -1,0 +1,37 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    max-width: 277px ;
+    border-radius: 0px 0px 20px 20px ;
+    background-color: var(--background);
+}
+
+.img{
+    border-radius: 20px 20px 0px 0px ;
+
+}
+
+.title{
+    font-weight: var(--bold);
+    font-size: 20px;
+    color:var(--black);
+}
+
+.description{
+    font-size: 14px;
+    color: var(--main-gray1);
+    font-weight: 400;
+
+}
+
+.button{
+    color:white;
+    background-color: var(--main-color);
+    border:none;
+    font-weight:var(--bold);
+    border-radius: var(--rounded-sm);
+    padding: 10px;
+    width:153px;
+    cursor:pointer;
+    
+}

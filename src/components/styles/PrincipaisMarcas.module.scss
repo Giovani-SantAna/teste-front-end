@@ -1,0 +1,44 @@
+.section{
+    padding:var(--default-padding);
+}
+
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.todos{
+    font-weight: var(--bold);
+    font-size: 20px;
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: #FBB900;
+
+
+}
+
+.containerMarcas{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardMarca{
+    border-radius: 20px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:178px;
+    height:178px;
+    //background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-shadow: 0px 8px 16px rgba(179, 134, 0, 0.12);
+    cursor:pointer;
+
+}
+
+.cardMarca:hover{
+    border: 1px solid var(--main-color);
+    transform: scale(1.1);
+}

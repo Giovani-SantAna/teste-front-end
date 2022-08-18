@@ -1,0 +1,57 @@
+.containerCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    min-width: 220px;
+    padding-right:26px ;
+    padding-left:26px ;
+}
+
+.img{
+    width:180;
+    height:180;
+}
+
+.topCard{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.descount{
+    color:var(--main-color);
+    font-weight:var(--bold);
+    font-size:14px;
+    possition:absolute;
+}
+
+.name{
+    max-width:60%;
+    color:var(--back);
+    font-weight:200;
+    font-size:14px;
+    text-align: center;
+}
+
+.price{
+    font-weight:var(--bold);
+    color:var(--black);
+    font-size:18px;
+}
+
+.price span{
+    font-size:22px;
+}
+
+.button{
+    color:white;
+    background-color:var(--main-color);
+    padding:10px;
+    font-weight:var(--bold);
+    border:none;
+    border-radius:10px;
+    
+    
+			 
+}

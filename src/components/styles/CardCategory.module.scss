@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    transform: scale(.9);
+}
+
+.container:hover{
+    
+    transform: scale(1.0);
+}
+
+.img{
+    width:277px;
+    height:277px ;
+    border-radius:var(--rounded);
+    margin-right:20px;
+}
+
+.p{
+    color: var(--main-gray1)
+}

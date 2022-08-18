@@ -1,0 +1,16 @@
+.containerCards{
+    display: flex;
+    justify-content:space-between;
+    overflow-x: scroll;
+}
+
+.section{
+    padding: var(--default-padding);
+}
+
+
+.title{
+    font-weight:var(--bold);
+    color:var(--black)
+
+}

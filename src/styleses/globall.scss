@@ -1,0 +1,31 @@
+:root{
+    --main-color:#FBB900;
+    --main-gray1:#9F9F9F;
+    --main-bg:#E5E5E5;
+    --background:#FEF6E7;
+    --black:#4D4D4D;
+    --extra-bold:800;
+    --bold:700;
+    --semibold:600;
+    --medium:500;
+    --rounded:20px;
+    --rounded-sm:10px;
+    --default-padding:56px;
+}
+
+body{
+    background-color: white;
+    color: var(--main-yewoll);
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: inherit;
+    color: inherit;
+
+}
+
+.title{
+    font-weight:var(--bold);
+    color:var(--black);
+    font-size:32px;
+}

@@ -1,0 +1,72 @@
+.section{
+    padding: var(--default-padding);
+    display: flex;
+    justify-content:space-between;
+}
+
+.card1{
+    background-image: url(../../images/parceiros.png);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:574px;
+    height:350px;
+    display: flex;
+    align-items:center;
+    margin-bottom: 60px;
+    border-radius:20px;
+    color:white;
+    mix-blend-mode: darken;
+    
+    //background-blend-mode: darken;
+}
+
+.title{
+    font-weight: var(--bold);
+    font-size:40px;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.p{
+    color:white;
+    font-size: 16px;
+    font-weight: var(--medium);
+}
+
+.title2{
+    font-weight: var(--bold);
+    color: var(--black);
+    font-size:40px;
+}
+
+.p2{
+    color:var(--main-gray1);
+    font-size: 16px;
+    font-weight: var(--medium);
+}
+
+.button{
+    border:none;
+    border-radius: var(--rounded-sm);
+    background-color: var(--main-color);
+    color:white;
+    font-weight: var(--bold);
+    padding: 10px 20px;
+    width:130px;
+    cursor:pointer;
+}
+.card2{
+    border-radius:20px;
+    width:574px;
+    height:350px;
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 60px;
+}
+/* Rectangle 239 */
+

@@ -1,0 +1,31 @@
+.section{
+    padding:var(--default-padding)
+}
+
+.title{
+
+    font-weight:var(--bold);
+    color:var(--black)
+
+}
+
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.todos{
+    font-weight: var(--bold);
+    font-size: 20px;
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: #FBB900;
+
+
+}
+
+.containerProducts{
+    display:flex;
+    overflow-x:scroll;
+}
