@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94e4438f.css",
+    "main.js": "/static/js/main.b22b84d6.js",
+    "static/js/787.1eaa1ec7.chunk.js": "/static/js/787.1eaa1ec7.chunk.js",
+    "static/media/hero.png": "/static/media/hero.e72852949197743866cd.png",
+    "static/media/category 1.png": "/static/media/category 1.f8f3f9e665ad9f3bfae3.png",
+    "static/media/category 3.png": "/static/media/category 3.16c76ae67fa10a1059d7.png",
+    "static/media/parceiros.png": "/static/media/parceiros.28b3ef30001426143b9e.png",
+    "static/media/category 2.png": "/static/media/category 2.5ae1033ceb2aa3c51689.png",
+    "static/media/category 4.png": "/static/media/category 4.d284559abeae49f55819.png",
+    "static/media/dogCard.png": "/static/media/dogCard.d3b6997a928e8d7e3caf.png",
+    "static/media/insta3.png": "/static/media/insta3.b8da2d7c21e017fd3bb0.png",
+    "static/media/insta2.png": "/static/media/insta2.9b1369b4088509e7dff7.png",
+    "static/media/article0.png": "/static/media/article0.5ea1a66fc4be132322ff.png",
+    "static/media/article3.png": "/static/media/article3.b9d7b6b4c746102df28c.png",
+    "static/media/insta1.png": "/static/media/insta1.d02c09d35de164568e22.png",
+    "static/media/article1.png": "/static/media/article1.2685a394a1255953ade9.png",
+    "static/media/article2.png": "/static/media/article2.459f096e9306996eb3ba.png",
+    "static/media/dog.png": "/static/media/dog.a1a91c3e045451489883.png",
+    "static/media/products0.png": "/static/media/products0.e7c531bc24b10f4df233.png",
+    "static/media/marca0.png": "/static/media/marca0.09be2d7ffd990f450435.png",
+    "static/media/logo.png": "/static/media/logo.cc2a5e62c4a25a4f4199.png",
+    "static/media/marca2.png": "/static/media/marca2.9e7eb122d5c4d7d0279d.png",
+    "static/media/marca1.png": "/static/media/marca1.f567e64e53a2fba812ac.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.94e4438f.css.map": "/static/css/main.94e4438f.css.map",
+    "main.b22b84d6.js.map": "/static/js/main.b22b84d6.js.map",
+    "787.1eaa1ec7.chunk.js.map": "/static/js/787.1eaa1ec7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94e4438f.css",
+    "static/js/main.b22b84d6.js"
+  ]
+}
